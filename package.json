@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "My First server",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "navneet chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
